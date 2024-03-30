@@ -90,7 +90,7 @@ Requisitos não funcionais
 - [X] Backlog do produto;
 - [X] Jira estruturado;
 - [X] GitHub estruturado;
-- [] Atribuições de atividades para a Sprint 02;
+- [ ] Atribuições de atividades para a Sprint 02;
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;

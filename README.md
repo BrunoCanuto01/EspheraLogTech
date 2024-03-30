@@ -31,7 +31,7 @@ Dashboard com o propósito de identificar cargas possíveis para ser redireciona
 |  Team Member  | Rubens Fulano       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo identificar posssiveis empresas e cargas que sejam propicias para utilizarem o aeroporto de São José dos Campos.
+Fazer a criação de um dashboard dentro do Power BI que permita o usuário visualizar e identificar posssiveis empresas e cargas que sejam propicias para utilizarem o aeroporto de São José dos Campos.
 
 
 ## Tecnologias Utilizadas
@@ -61,15 +61,15 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Requisitos
 
 Requisitos funcionais 
-- Conteúdo da apresentação   
+- Dashboard
 - Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
 
   
 Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / GitHub
+- Power BI
+- Jira
+- GitHub
+- Slack
   
 # Backlog do produto
   
@@ -85,15 +85,10 @@ Requisitos não funcionais
 
 
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [] Backlog do produto;
+- [] Jira estruturado;
+- [] GitHub estruturado;
+- [] Atribuições de atividades para a Sprint 02;
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;

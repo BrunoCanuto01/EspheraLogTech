@@ -36,7 +36,10 @@ Fazer a criação de um dashboard dentro do Power BI que permita o usuário visu
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > - GitHub
+>  - Jira Software
+>  - Power BI
+>  - Slack
   
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega

@@ -1,5 +1,3 @@
-# EspheraLogTech
-Dashboard com o propósito de identificar cargas possíveis para ser redirecionadas e serem transportadas pelo aeroporto de São José dos Campos.
 # Aprendizado por Projeto Integrado (API)
 
 Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
@@ -19,7 +17,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+Dashboard com o propósito de identificar cargas possíveis para ser redirecionadas e serem transportadas pelo aeroporto de São José dos Campos
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |

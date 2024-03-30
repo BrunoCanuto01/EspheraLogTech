@@ -87,9 +87,9 @@ Requisitos não funcionais
 
 
 ## Sprint 1. Concepção
-- [] Backlog do produto;
-- [] Jira estruturado;
-- [] GitHub estruturado;
+- [X] Backlog do produto;
+- [X] Jira estruturado;
+- [X] GitHub estruturado;
 - [] Atribuições de atividades para a Sprint 02;
 
 ## Sprint 2. Desenvolvimento do Projeto

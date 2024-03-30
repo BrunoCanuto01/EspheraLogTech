@@ -41,9 +41,6 @@ Fazer a criação de um dashboard dentro do Power BI que permita o usuário visu
 >  - Power BI
 >  - Slack
   
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
